@@ -301,6 +301,7 @@ background:url("../img/sky3.jpg") no-repeat center top;
 	background:url(   "../img/Buddha.jpg") no-repeat center top;
 	background-size: cover;
 	background-attachment: fixed;
+	overflow-y: scroll;
 	/*background-color:#333333;*/
 }
 
@@ -320,6 +321,7 @@ background:url("../img/sky3.jpg") no-repeat center top;
 		background:url(   "../img/fish3.jpg") no-repeat center top;
 		background-size: cover;
 		background-attachment: fixed;
+		overflow-y: scroll;
 }
 
 #MainQuote {
