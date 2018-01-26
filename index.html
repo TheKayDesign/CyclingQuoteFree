@@ -120,7 +120,7 @@ document.addEventListener("deviceready", onDeviceReady, false);
               </div> 
 </div></div>
 
-<div id="Outer2"><div align="center">
+<div id="Outer2"><a name="TopStartPage"></a><div align="center">
     <div class="Inner">
    <!-- test -->  
     <div align="center"><div id="MainQuote"><div id="LogoBox"><img src="img/ZinYangLogo75x75.png" class="LogoImg"></div>
@@ -128,13 +128,13 @@ document.addEventListener("deviceready", onDeviceReady, false);
         <h1>Cycling Quotes</h1>  <div class="AboutText">Your daily fix of Cycling Tips, Jokes, Quotes and Annecdotes to educate, entertain and enlighten your mind to help make a positive impact on your cycling adventures...  </div>
         
        <div id="StartButtons">
-        <button class="StartmyButton" onclick="var now = new Date(); var start = new Date(now.getFullYear(), 0, 0); var diff = now - start; var oneDay = 1000 * 60 * 60 * 24; var day = Math.floor(diff / oneDay); document.getElementById('Outer').style.display = 'block'; document.getElementById('Outer2').style.display = 'none';document.getElementById('Outer3').style.display = 'none';document.getElementById('Outer4').style.display = 'none';getElementById('demo2').innerHTML=car[day];document.getElementById('Texty').innerHTML='Today\'s Quote'; todaysDate();">Today's Quote</button>
+        <button class="StartmyButton" onclick="var now = new Date(); var start = new Date(now.getFullYear(), 0, 0); var diff = now - start; var oneDay = 1000 * 60 * 60 * 24; var day = Math.floor(diff / oneDay); document.getElementById('Outer').style.display = 'block'; document.getElementById('Outer2').style.display = 'none';document.getElementById('Outer3').style.display = 'none';document.getElementById('Outer4').style.display = 'none';getElementById('demo2').innerHTML=car[day];document.getElementById('Texty').innerHTML='Today\'s Quote'; todaysDate();window.location = '#TopPage';">Today's Quote</button>
 
   
-  <button class="StartmyButton" onclick="document.getElementById('Outer4').style.display = 'block';document.getElementById('Outer3').style.display = 'none';document.getElementById('Outer').style.display = 'none'; document.getElementById('Outer2').style.display = 'none'">About</button>
+  <button class="StartmyButton" onclick="document.getElementById('Outer4').style.display = 'block';document.getElementById('Outer3').style.display = 'none';document.getElementById('Outer').style.display = 'none'; document.getElementById('Outer2').style.display = 'none';window.location = '#TopAboutPage';">About</button>
 
   
-  <button class="StartmyButton" onclick="select=1;document.getElementById('Outer3').style.display = 'block';document.getElementById('Outer').style.display = 'none';document.getElementById('Outer4').style.display = 'none'; document.getElementById('Outer2').style.display = 'none';	admob.requestInterstitialAd({
+  <button class="StartmyButton" onclick="select=1;document.getElementById('Outer3').style.display = 'block';document.getElementById('Outer').style.display = 'none';document.getElementById('Outer4').style.display = 'none'; document.getElementById('Outer2').style.display = 'none';window.location = '#TopStudyPage';admob.requestInterstitialAd({
     autoShowInterstitial: true
 });">Cycling Study</button>
   
@@ -156,7 +156,7 @@ document.addEventListener("deviceready", onDeviceReady, false);
     </div> <!-- end class div center -->
 
 </div>
-<div id="Outer">
+<div id="Outer"><a name="TopPage"></a>
 <div align="center">
     <div class="Inner">
     <div align="center"><div id="MainQuote"><div id="LogoBox"><img src="img/ZinYangLogo75x75.png" class="LogoImg"></div>
@@ -168,17 +168,17 @@ the ocean."--></div>
 <!-- end QuoteExt --></div><!-- end MainQuote --></div>
 <div align="center">
   <div id="ButtonInner">
-    <div id="MainQuote2"><button class="myButton" onclick="var now = new Date(); var start = new Date(now.getFullYear(), 0, 0); var diff = now - start; var oneDay = 1000 * 60 * 60 * 24; var day = Math.floor(diff / oneDay ); getElementById('demo2').innerHTML=car[day];document.getElementById('Texty').innerHTML='Today\'s Quote'; todaysDate();">Today's<br>Quote</button>
+    <div id="MainQuote2"><button class="myButton" onclick="var now = new Date(); var start = new Date(now.getFullYear(), 0, 0); var diff = now - start; var oneDay = 1000 * 60 * 60 * 24; var day = Math.floor(diff / oneDay ); getElementById('demo2').innerHTML=car[day];document.getElementById('Texty').innerHTML='Today\'s Quote'; todaysDate();window.location = '#TopPage';">Today's<br>Quote</button>
     
     </div>
     
-    <div id="MainQuote2b"><button class="myButton" onclick="getElementById('demo2').innerHTML=car[+Math.floor((Math.random() * 366) + 1)];document.getElementById('Texty').innerHTML='Random Quote'; todaysDate();">Random<br>Quote</button>
+    <div id="MainQuote2b"><button class="myButton" onclick="getElementById('demo2').innerHTML=car[+Math.floor((Math.random() * 366) + 1)];document.getElementById('Texty').innerHTML='Random Quote'; todaysDate();window.location = '#TopPage';">Random<br>Quote</button>
     </div>
     
     <div id="MainQuote2">
-      <button class="myButton2" onclick="select=2;document.getElementById('Outer3').style.display = 'block';document.getElementById('Outer').style.display = 'none';document.getElementById('Outer4').style.display = 'none'; document.getElementById('Outer2').style.display = 'none'">Cycling<br>Study</button></div>
+      <button class="myButton2" onclick="select=2;document.getElementById('Outer3').style.display = 'block';document.getElementById('Outer').style.display = 'none';document.getElementById('Outer4').style.display = 'none'; document.getElementById('Outer2').style.display = 'none';window.location = '#TopStudyPage';">Cycling<br>Study</button></div>
     
-        <div id="MainQuote2b"><button class="myButton2" onclick="document.getElementById('Outer2').style.display = 'block';document.getElementById('Outer').style.display = 'none';document.getElementById('Outer4').style.display = 'none'; document.getElementById('Outer3').style.display = 'none';	admob.requestInterstitialAd({
+        <div id="MainQuote2b"><button class="myButton2" onclick="document.getElementById('Outer2').style.display = 'block';document.getElementById('Outer').style.display = 'none';document.getElementById('Outer4').style.display = 'none'; document.getElementById('Outer3').style.display = 'none';window.location = '#TopStartPage';admob.requestInterstitialAd({
     autoShowInterstitial: true
 });">&#9664;&#9664;<br>Back</button></div>
 
@@ -200,7 +200,7 @@ the ocean."--></div>
 
 <!-- books page -->
 
-<div id="Outer4">
+<div id="Outer4"><a name="TopAboutPage"></a>
 <div align="center">
    <div class="Inner">
     <div align="center"><div id="MainQuote"><div id="LogoBox"><img src="img/ZinYangLogo75x75.png" class="LogoImg"></div><h1>About</h1>
@@ -224,7 +224,7 @@ the ocean."--></div>
         <table width="96%" border="0" style="padding-top:15px">
             <tr>
               <td width="42%"></td>
-              <td width="20%" align="center" valign="middle" style="text-align: center"><div id="LogoBox3"><img onclick="document.getElementById('Outer2').style.display = 'block';document.getElementById('Outer3').style.display = 'none';document.getElementById('Outer4').style.display = 'none'; document.getElementById('Outer').style.display = 'none';	admob.requestInterstitialAd({
+              <td width="20%" align="center" valign="middle" style="text-align: center"><div id="LogoBox3"><img onclick="document.getElementById('Outer2').style.display = 'block';document.getElementById('Outer3').style.display = 'none';document.getElementById('Outer4').style.display = 'none'; document.getElementById('Outer').style.display = 'none';window.location = '#TopStartPage';admob.requestInterstitialAd({
     autoShowInterstitial: true
 });" src="img/back-button.png" class="LogoImg2"></div></td>
               <td width="37%"></td>
@@ -243,7 +243,7 @@ the ocean."--></div>
 
 <!-- about page-->
 
-<div id="Outer3">
+<div id="Outer3"><a name="TopStudyPage"></a>
 <div align="center">
 <div class="InnerScrollBooks">
    <div class="Inner">
@@ -390,12 +390,6 @@ This is one man s confession." <br></span><span class="BookTextLink"><!--<a href
     <script>
 var d = new Date();
 document.getElementById("demo").innerHTML = d.toDateString();
-</script>
-<script>
-function topOfPage() {
-    document.body.scrollTop = 0;
-    document.documentElement.scrollTop = 0;
-}
 </script>
 <script type="text/javascript" src="cordova.js"></script>
 <!-- end about page -->

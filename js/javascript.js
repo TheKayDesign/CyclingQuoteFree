@@ -12,8 +12,6 @@
 function todaysDate() {
 var d = new Date();
 document.getElementById("demo").innerHTML = d.toDateString();
-    document.body.scrollTop = 0;
-    document.documentElement.scrollTop = 0;
 }
 
 function myFunction() {
