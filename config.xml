@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.kaydownes.ZenQuotes" version="1.2.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Daily Zen / Buddha Quotes</name>
+<widget id="com.kaydownes.CyclingQuotes" version="1.2.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Daily Cycling Quotes</name>
     <description>
-        Your daily fix of Zen / Buddha sayings to help you relax, enlighten your mind, and make a positve impact on your life's journey...
+        Your daily fix of Cycling Tips, Jokes, Quotes and Annecdotes to educate, entertain and enlighten your mind to help make a positive impact on your cycling adventures...
     </description>
     <author email="kay@kaydownes.com" href="http://www.kaydownes.com">
         Kay Downes
     </author>
-    <preference name="windows-identity-name" value="28366KayDownes.DailyZenBuddhaQuotes" />
+    <preference name="windows-identity-name" value="28366KayDownes.DailyCyclingQuotes" />
     <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*"/>
