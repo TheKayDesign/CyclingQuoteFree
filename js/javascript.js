@@ -58,7 +58,7 @@ car[8]="Bike to work, bike to play, bike tomorrow, bike today.";
 car[9]="Practice changing your inner tubes in your spare time, that way if you acquire a puncture on the road/trail you will know exactly what to do.";
 car[10]="The first incarnation of the bicycle was the walking machine invented in 1817 by Baron von Draisby. The machine became known as the Draisienne or hobby horse and was made entirely of wood.";
 car[11]="How many layers do I need to wear during Winter? Aim to be slightly cold when setting out. The first few minutes may feel chilly, but your body produces a vast amount of heat when riding a bicycle so you'll warm up quickly.";
-car[12]="\"There’s no F**King drug in the world that could give you a high like that\"<br><br><div class=\"SigText\">- Shaun Palmer</div>";
+car[12]="\"There’s no F**King drug in the world that could give you a high like that.\"<br><br><div class=\"SigText\">- Shaun Palmer</div>";
 car[13]="Note down your bicycle serial number which is visually stamped on the frame underneath the bottom backet. This will help police to identify your bike if it ever got stolen and recovered. There are also a number of websites for registering your serial number such as www.bikeregister.com";
 car[14]="\"You’ll likely have to change the saddle your bike came with. You shouldn’t be thinking about your saddle when you ride, if it’s uncomfortable it’s time to change it.\"<br><br><div class=\"SigText\">- unkown</div>";
 car[15]="\"When man invented the bicycle he reached the peak of his attainments.\"<br><br><div class=\"SigText\">- Elizabeth West, US author</div>";
@@ -94,13 +94,13 @@ car[44]=" Joke:<br><br> Q: How did the barber win the bike race?<br><br>A: He to
 car[45]="All ass no gas.";
 car[46]="Joke:<br><br>\"I prefer running…\"";
 car[47]="Always be there for others. Always inspire them with your dreams and hope, vision and mission, attitude and aptitude.";
-car[48]=" I came... I spun... I CONQUERED!";
+car[48]="I came... I spun... I CONQUERED!";
 car[49]="When taking the lead position in a paceline, as the former leader drops to the back, don't accelerate. Maintain the same speed as when drafting so you don't cause gaps to open between the other riders.";
 car[50]="The best invention after the wheel... was putting two of them together.";
 car[51]="\"Being a cyclist is more than riding your bike... you feel it in your heart and soul.\"";
 car[52]="Bike Security. Spend as much as you can afford on a bike lock. As a general rule it ideally should be 1/4 to 1/3 of how much your bike is worth. With bike locks you are generally buying the time a thief spends to take it. Gold secure rated locks are classed as most secure.";
 car[53]="The first chain driven bicycle was called the rover and was first exhibited in London in early 1885 by J.K. Starley.";
-car[54]="\"I'm OK, just hit my head on the lamppost, but I'm all right. The doctor asked me a few questions, my name and stuff. I said I'm Chris Froome\"<br><br><div class=\"SigText\">- Geraint Thomas</div>";
+car[54]="\"I'm OK, just hit my head on the lamppost, but I'm all right. The doctor asked me a few questions, my name and stuff. I said I'm Chris Froome.\"<br><br><div class=\"SigText\">- Geraint Thomas</div>";
 car[55]="Switchback tip: On the turn, stay off your front brake; use the rear only if necessary. Try to do all braking before.";
 car[56]="\"Training can be monotonous, and it is hard work, but you never lose sight of why you are doing it. Every single effort of every single session counts in the months and years leading up to a big event.\"<br><br><div class=\"SigText\">- Sir Chris Hoy</div>";
 car[57]=" If you need to change direction or position on the road, always look first to check it's safe to do so and then, where applicable, make a clear signal to alert other road users / pedestrians of your intended action.";
@@ -114,13 +114,13 @@ car[64]="\"Melancoly is incompatible with bicycling.\"<br><br><div class=\"SigTe
 car[65]="Don't just look at your kit... RIDE IT!";
 car[66]="Only a cyclist knows why a dog sticks his head out of the car window.";
 car[67]="Mountain Biking Downhill: Shifting into the big chainring before a bumpy descent will help keep the chain from bouncing off, and should you crash or disengage your leg from the pedal, the chain will cover the teeth of the big ring so they don't bite into your leg.";
-car[68]="\"Never take what one bike shop says as your size as gospel for all bike brands. I spend half my life trying to explain to people that a 48cm in Cannondale is like a 51cm in Cervelo\"<br><br><div class=\"SigText\">- Bryan Hutton<div>";
+car[68]="\"Never take what one bike shop says as your size as gospel for all bike brands. I spend half my life trying to explain to people that a 48cm in Cannondale is like a 51cm in Cervelo.\"<br><br><div class=\"SigText\">- Bryan Hutton<div>";
 car[69]="\"Don’t be afraid to wear Lycra. It’s odd at first but, trust me, it’s the most comfortable way to ride.\"<br><br><div class=\"SigText\">- Keith Russell</div>";
 car[70]="When you cast a crisp shadow on the road, take the opportunity to check your position - are your elbows bent, back flat, knees slightly bent at the bottom of the pedal stroke, head up without being torqued at the neck?";
 car[71]="\"It may seem odd that cycling (often) seems to be less about riding than it is about getting the ride over with as soon as possible... enjoyable things should be savored... racing a century is the cycling equivalent of shotgunning a beer. Eventually you learn that sipping is more enjoyable - and it gets you just as drunk in the end.\"<br><br><div class=\"SigText\">– The Bike Snob, Bicycling, October 2009</div>";
 car[72]="Accelerate over the top of hills. A lot of riders relax and slow down as they get to the top of a hill climb, PUSH ON! (The downhill will come soon enough)";
 car[73]="I totally regreat that sweaty calorie burning bike ride around the lake while watching men cycle in tight shorts - said no woman ever!";
-car[74]="Joke:<br><br>Q: When is a bicycle not a bicycle? <br<br>A: When it turns into a driveway.";
+car[74]="Joke:<br><br>Q: When is a bicycle not a bicycle?<br><br>A: When it turns into a driveway.";
 car[75]="Want to Ride Faster? Join a club - riding and keeping up with other people of similar fitness will soon progress your fitness to the next level.";
 car[76]="Carry an emergency bike lock even if you don't intent to stop, one day you may get caught out and will need to quickly pop into a shop, cafe, or toilet.";
 car[77]="If you hear a metallic click during every crank revolution, grease the pedal threads (and tighten firmly when reinstalling).";
@@ -151,18 +151,18 @@ car[101]="I don't ride a bike to add days to my life, I ride a bike to add life 
 car[102]="\"Give a man a fish and feed him for a day. Teach a man to fish and feed him for a lifetime. Teach a man to cycle and he will realize fishing is stupid and boring.\"<br><br><div class=\"SigText\">- Desmond Tutu</div>";
 car[103]="After you grab your water bottle, don't tilt your head to drink. Tilt the bottle and squeeze the water in. You'll have more control."
 car[104]="Eat predictably on event day. Never eat anything new on event day - you don't want to end up with an upset stomach. Training days are for experimenting with.";
-car[105]="Your bike says alot about you. This one says \"I like bikes\"";
+car[105]="Your bike says alot about you. This one says \"I like bikes\".";
 car[106]="\"Ride are much or as little as you feel, but ride.\"<br><br><div class=\"SigText\">- Eddie Merckx</div>";
 car[107]="\"Think of bicycles as ridable art that can just about save the world.\"<br><br><div class=\"SigText\">- Grant Petersen, bicycle designer</div>";
 car[108]="\"Downhill mountain biking, more additive than crack cocaine, and twice as expensive.\"<br><br><div class=\"SigText\">- Pinkbike.com</div>";
 car[109]="You can't be sad while riding a bicycle.";
 car[110]="Dont worry, bike happy.";
-car[111]="\"That's the closest I'll ever come to knowing what it's like to have a baby. It was just torture\"<br><br><div class=\"SigText\">- Sir Bradley Wiggins</div>";
+car[111]="\"That's the closest I'll ever come to knowing what it's like to have a baby. It was just torture.\"<br><br><div class=\"SigText\">- Sir Bradley Wiggins</div>";
 car[112]="The Penny Farthing was invented in the 1870's by British engineer, James Starley.";
 car[113]="Work to eat. Eat to live. Live to bike. Bike to work.";
 car[114]="To avoid muscle soreness and fatigue, don't hunch your shoulders. Tilt your head every few minutes to stave off tight neck muscles. Better yet: Stop to admire the scenery.";
 car[115]="Life is short... buy the damn bicycle!";
-car[116]="\"When the spirits are low, when the day appears dark, when work becomes monotonous, when hope hardly seems worth having, just mount a bicycle and go out for a spin down the road, without thought on anything but the ride you are taking\"<br><br><div class=\"SigText\">– Arthur Conan Doyle</div>";
+car[116]="\"When the spirits are low, when the day appears dark, when work becomes monotonous, when hope hardly seems worth having, just mount a bicycle and go out for a spin down the road, without thought on anything but the ride you are taking.\"<br><br><div class=\"SigText\">– Arthur Conan Doyle</div>";
 car[117]="\"On the nutritional side, generally stick to water for rides under an hour. Carbs on rides of 1-3 hours and a mixture of carbs and protein for rides longer than 3 hours. It’s worth noting however that these are only guidelines, as nutrition is often a matter of ‘what works for you’.\"<br><br><div class=\"SigText\">- Tim Hoyle</div>";
 car[118]="Always try to look well ahead down the road and anticipate any potential obstructions or dangers - so you do not have to swerve suddenly to avoid them.";
 car[119]="\"Don't buy upgrades... ride up grades!\"<br><br><div class=\"SigText\">- Eddie Merckx</div>";
@@ -186,10 +186,10 @@ car[136]="My biggest fear is that when I die my wife will sell my bicycles for w
 car[137]="The padding on tights and shorts are designed to be worn commando (no pants / knickers underneath) Try it... you might like it!";
 car[138]="Mountain Biking: For super steep, technical descents, you may want to drop your saddle 2 or 3 inches. This lowers your center of gravity, giving you more room to bounce around.";
 car[139]="Commuting:<br>If you commute to work and need to change into work clothes when you get there - have some spare emergency clothes at work incase you forget to pack your daily clothes in your bag / pannier. Otherwise one day you may be spending the day working in cycling kit.";
-car[140]="Psyclepath. Noun: A person suffering from an extreme love of bicycles"
+car[140]="Psyclepath. Noun: A person suffering from an extreme love of bicycles."
 car[141]="Suffer from insomnia? Go for a bike ride! Stanford University School of Medicine researchers asked sedentary insomnia sufferers to cycle around 20 - 30 minutes a day. The result? The time required for insomniacs to fall asleep was reduced by half, and sleep time increased by almost a hour.";
 car[142]="Cycling just 20 miles a week reduces your risk of heart desease to less than half of those who take no exercise.";
-car[143]="\"It doesn’t matter if you’re sprinting for an Olympic gold medal, a town sign, a trailhead, or the rest stop with the homemade brownies. If you never confront pain, you’re missing the essence of the sport\"<br><br><div class=\"SigText\">– Scott Martin</div>"
+car[143]="\"It doesn’t matter if you’re sprinting for an Olympic gold medal, a town sign, a trailhead, or the rest stop with the homemade brownies. If you never confront pain, you’re missing the essence of the sport.\"<br><br><div class=\"SigText\">– Scott Martin</div>"
 car[144]="If you're caught out riding and find that you're getting too cold or need a windbreaker, get a newspaper and insert sections of it inside your cycling jersey, it will act as a temporary windbreaker and insulator.";
 car[145]="Struggling to open your bars / gels / jelly babies? Partly cut the tops before starting to ride for easy access whilst on the bike.";
 car[146]="\"The slower you go the more likely it is you’ll crash.\"<br><br><div class=\"SigText\">- Juli Furtado</div>";
@@ -224,7 +224,7 @@ car[174]="Cycling: Side effects include sweating, euphoria and general awesomene
 car[175]="Always ride with your elbows bent and your arms and shoulders relaxed, this prevents fatigue caused by muscle tension, it also allows your arms to absorb shock instead of transmitting it to your body.";
 car[176]="If you aqquire soreness in the nether region make sure the saddle is level and straight. A low handlebar can cause your pelvis to rotate forward and down, so try raising it with spacers. Finally, test seats of different widths, lengths, firmnesses, and shapes.";
 car[177]="\"My biggest tip would be to ‘Just ride’. Get out, short rides, long rides, lone rides or group rides. They all count and you’ll always feel better for it! Just enjoy it!\"<br><br><div class=\"SigText\">- Donna Navarro</div>"
-car[178]="\"I ride because somehow completely exhausting myself is the most relaxing part of my day\"";
+car[178]="\"I ride because somehow completely exhausting myself is the most relaxing part of my day.\"";
 car[179]="Benefits of cycling: Scientists at Stanford University have found that cycling regulary can protect your skin against the harmfull effects of UV radiation and reduce some of the signs of aging.";
 car[180]="\"It’s a risky business being a cyclist in the UK, there are a lot of people who really dislike us. It’s the Jeremy Clarkson influence – we’re hated on the roads. We just hope people realise we are just flesh and bones on two wheels.\"<br><br><div class=\"SigText\">- Victoria Pendleton</div>";
 car[181]="\"In sport you always think the strongest guy should be going for it and getting the best results. The thing is, cycling also has a very important team aspect, which I don't think that a lot of people fully grasp.\"<br><br><div class=\"SigText\">- Chris Froome</div>";
@@ -240,7 +240,7 @@ car[190]="Things to love about cycling... the rewarding freewheeling downhill af
 car[191]="ICE (In Case of Emergency) Put your emergency contacts on your mobile under ICE so that the police / ambulance / rescue services know who to call if you are ever involved in an accident.";
 car[192]="\"If I can bicycle, bicycle.\"<br><br><div class=\"SigText\">- Sir David Attenborough</div>";
 car[193]="Consider joining a breakdown recovery service such as Cycleguard Recovery (www.cycleguard.co.uk) who will rescue you if you have a breakdown over 1 mile away from home.";
-car[194]="\"Cycling is much more fun than dating... I still get to chase women, and sometimes catch them. But when I get dropped, at least there is no emotional attachment\"<br><br><div class=\"SigText\">– T. A. MeltonIn</div>";
+car[194]="\"Cycling is much more fun than dating... I still get to chase women, and sometimes catch them. But when I get dropped, at least there is no emotional attachment.\"<br><br><div class=\"SigText\">– T. A. MeltonIn</div>";
 car[195]="\"You either love spinning the pedals and watching scenery whiz by, or you don’t. And if you love it, not much can sour you on the idea of riding your bike.\"<br><br><div class=\"SigText\">- Keith Mills</div>";
 car[196]="\"It really is all about believing in yourself. 80% mental, 20% physical.\"<br><br><div class=\"SigText\">– Victoria Pendleton</div>";
 car[197]="Slow and fast twitch muscle fibres. Every muscle is made up of two types of fibres. Fast-twitch fibres move 2 to 3 times faster than slow-twitch fibres, but they tire more easily. Fast-twitch fibres, logically, are used for sprinting and quick escents. Inversely, slow-twitch fibres are used for long rides of moderate intensity.";
@@ -285,7 +285,7 @@ car[235]="Over time, bacteria can form inside your water bottles. To prevent thi
 car[236]="Things to love about cycling... it gives you great legs!";
 car[237]="More biking, more music... less people, less bullshit.";
 car[238]="\"It is the unknown around the corner that turns my wheels.\"<br><br><div class=\"SigText\">- Heinz Stucke</div>";
-car[239]="\"One thing that cycling has taught me is that if you achieve something without a struggle it’s not going to be satisfying\"<br><br><div class=\"SigText\">- Greg LeMond</div>";
+car[239]="\"One thing that cycling has taught me is that if you achieve something without a struggle it’s not going to be satisfying.\"<br><br><div class=\"SigText\">- Greg LeMond</div>";
 car[240]="\"I don't have a bucket list but my bikeit list is a mile long.\"";
 car[241]="Joke:<br><br> \"I’ve really had it with my dog: he’ll chase anyone on a bicycle.\", \"So what are you going to do - leave him at the dog’s home? Give him away? Sell him?\", \"No, nothing that drastic. I think I’ll just confiscate his bike.\"";
 car[242]="\"The race is won by the rider who can suffer the most.\"<br><br><div class=\"SigText\">- Eddy Merckx</div>";
@@ -308,7 +308,7 @@ car[258]="DIY Banana and Peanut Butter Recovery Shake.<br><br>Ingredients:<br>30
 car[259]="\"Any day I’m out on a bike is a good one.\"<br><br><div class=\"SigText\">– Martyn Ashton</div>";
 car[260]="\"An engineer designing from scratch could hardly concoct a better device to unclog modern roads - cheap, nonpolluting, small and silent…\"<br><br><div class=\"SigText\">- Rick Smith</div>";
 car[261]="No gas, no traffic, free parking, pollution free, free workout... ride your bike, save the world!";
-car[262]="Joke:<br><br>A vicar was stopped by the police at night for not having a back light. The vicar says: \"I don’t need a back light, the Lord is with me\". The policeman says: \"Two on a bike as well, that’s another offence\".";
+car[262]="Joke:<br><br>A vicar was stopped by the police at night for not having a back light. The vicar says: \"I don’t need a back light, the Lord is with me\". The policeman says: \"Two on a bike as well, that’s another offence.\"";
 car[263]="\"If it weren’t for bicycles, world domination would be within my grasp!\"<br><br><div class=\"SigText\">– Stuart Black</div>";
 car[264]="\"Until mountain biking came along, the bike scene was ruled by a small elite cadre of people who seemed allergis to enthusiasm.\"<br><br><div class=\"SigText\">- Jacquie Phelan</div>";
 car[265]=" \"Are we at the cake stop yet?\"<br><br><div class=\"SigText\">- TheKay</div>";
@@ -319,10 +319,10 @@ car[269]="Cycling: Get out there and discover it!";
 car[270]="A chirp is almost always from the chain - it is crying out for lubrication.";
 car[271]="Try not to chance your line in the middle of of corner - your front tyre could potentially wash out, especially if it's wet.";
 car[272]="Joke:<br><br>Me: My friend's wife has made him give away all of his cycling stuff. I got his brakes.<br><br>Stooge: Cantilever?<br><br>Me: No, he loves her too much.";
-car[273]="*********************************************************************************************************************************************************************";
+car[273]="\"If you go (with a break), you can either win or not win. If you don’t go for it, you definitely won’t win.\"<br><br><div class=\"SigText\">- Jens Voigt</div>";
 car[274]="\"Good morale in cycling comes from good legs.\"<br><br><div class=\"SigText\">- Sean Yates</div>";
 car[275]="The Necessities of Life: 1 air, 2 water, 3 food, 4. my bike.";
-car[276]="\"At the end of the day we're just people on bikes...\"<br><br><div class=\"SigText\">- Mike Hall, Ultradistance Cycling Legend</div>";
+car[276]="\"At the end of the day we're just people on bikes...\"<br><br><div class=\"SigText\">- Mike Hall, Ultra-distance Cycling Legend</div>";
 car[277]="\"Be aware of the vehicles around you. When taking the inside lane, watch for indicators.\"<br><br><div class=\"SigText\">- Stuart Barrington</div>";
 car[278]="\"Cycle tracks will abound in Utopia.\"<br><br><div class=\"SigText\">- H.G. Wells</div>";
 car[279]="\"Nothing compares to the comple pleasure of riding a bike.\"<br><br><div class=\"SigText\">- John F. Kennedy</div>";
@@ -336,7 +336,7 @@ car[286]="For inspiration, help and advice with like minded cyclists, consider l
 car[287]="For optimal handling with 20 pounds or more of cargo, put approximately 60 percent of the weight in the rear panniers or on a rack, 35 percent on a front rack or panniers, and 5 percent in a handlebar bag.";
 car[288]="\"Life may not be about your bike, but it sure can help you get through it.\"<br><br><div class=\"SigText\">- Hallman</div>";
 car[289]="Always carry a bit of lose change when riding, you never know when you may need it - for example emergency train fare home or emergency food.";
-car[290]="Joke:<br><br>A tandem rider is stopped by the police. \"What have I done wrong?\" says the rider.<br>\"Perhaps you didn’t notice, sir, but your wife fell off half a mile back.\"<br>\"Thank god for that,\" says the rider. \"I thought I’d gone deaf\".";
+car[290]="Joke:<br><br>A tandem rider is stopped by the police. \"What have I done wrong?\" says the rider.<br>\"Perhaps you didn’t notice, sir, but your wife fell off half a mile back.\"<br>\"Thank god for that,\" says the rider. \"I thought I’d gone deaf.\"";
 car[291]="Research carried out by Appalacian State Univeristy shows that cycling is better than running. The researchers say runners should include cycling as part of their training, and people taking up exercise should choose cycling over running to avoid injury.";
 car[292]="Go hard on climbs... and take it easy on descents.";
 car[293]="Happiness is... sweet exhaustion after a hard ride.";
@@ -370,12 +370,12 @@ car[320]="You can't buy happiness but you can buy a bike and thats pretty damn c
 car[321]="RIDE IT LIKE YOU STOLE IT!";
 car[322]="My bike takes me places my car never will...";
 car[323]="The bicycle has soul. If you succeed to love it, it will give you emotions that you will never forget.";
-car[324]="You lost me at \"I don't bike\".";
-car[325]="\"It Never Gets Easier, You Just Go Faster\"<br><br><div class=\"SigText\">- Greg LeMond</div>";
+car[324]="You lost me at 'I don't bike'.";
+car[325]="\"It Never Gets Easier, You Just Go Faster.\"<br><br><div class=\"SigText\">- Greg LeMond</div>";
 car[326]="Be extra carefull when riding on wet roads as your tyres and easily slip. Also consider letting your tyre pressure down for extra grip.";
 car[327]="Joke:<br><br>My friend rode into a tree the other day racing round his back garden. Thankfully he was able to continue, his bark was worse than his bike.";
 car[328]="Keep your shoulders behind the front wheel axle. Too much weight forward makes the bike hard to handle and could cause the rear wheel to skip up into the air.";
-car[329]="\"Buy the best bike you can afford, buy the best shorts you can afford\"<br><br><div class=\"SigText\">- Brad Collard</div>";
+car[329]="\"Buy the best bike you can afford, buy the best shorts you can afford.\"<br><br><div class=\"SigText\">- Brad Collard</div>";
 car[330]="Cycling Apps: When using a cycling app try to start/stop your ride away from your house, this stops strangers who many be looking at your routes from finding out where you live. Alternatively have a look in your app settings to see if you can it to be viewed by yourself and friends only";
 car[331]="Rattles and jingles often come from a seat bag. Secure items with rubber bands or rags.";
 car[332]="Wet chain lube is ideal for riding in rain, snow and wintery conditions.";
